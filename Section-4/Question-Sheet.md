@@ -8,6 +8,8 @@ D. JSX is the engine used by web browser to render Javascript code.
 
 Answer:
 
+B
+
 ------------
 
 Question:
@@ -19,7 +21,7 @@ C. The virtual DOM is a programming concept where an ideal, or “virtual”, re
 D. The virtual DOM is an exact replica of the referenced "DOM", having same functionality and structure, which enables good user interface
 
 Answer:
-
+c
 ------------
 
 Question:
@@ -31,7 +33,7 @@ C. A component makes it that it is unnecessary to bind ‘this’ inside the con
 D. A component is essentially a piece of the user interface. It splits the user interface into independent, reusable parts that can be processed separately.
 
 Answer:
-
+D
 ------------
 
 Question:
@@ -43,7 +45,7 @@ C. State, Prop Components.
 D. Singular, Multiple Components.
 
 Answer:
-
+c/b
 ------------
 
 Question:
